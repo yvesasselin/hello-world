@@ -1,2 +1,7 @@
 # hello-world
-this is a first try to making a git folder
+This is a first try at making a git folder
+I am a new usuer to GitHup... 
+
+I think we are going to get along just fine...
+
+ : )
